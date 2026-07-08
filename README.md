@@ -1,2 +1,2 @@
 # Uni-Homework
-A repostory documenting my programming homework.
+A repository documenting my programming homework.
